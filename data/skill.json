@@ -1,7 +1,10 @@
 {
   "main": [
-            {"name": "ddd"},              
-            {"name": "ddd"}
+            {"name": "Model reduction", "value": "70"},              
+            {"name": "Scientific computing", "value": "85"},
+	    {"name": "Data analysis", "value": "65"},
+            {"name": "Parallel programming", "value": "65"},
+            {"name": "Python", "value": "90"},
           ],
   "sec": "c"
 }             
