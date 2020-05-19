@@ -2,36 +2,42 @@
   {
     "title": "AROMA",
     "subtitle": "Advanced Reduced Order Modelling",
-    "desc": "I worked on state-of-the-art methodologies for the computational fluid dynamics using an approach data-based, implementing them inside an open source environment. I also develop the web graphical interface ARGOS as frontend of the AROMA-CFD methodologies, so making them available directly on web-browser",
-    "link": ""
+    "desc": "I developed methodologies for CFD using an approach data-based, implementing them inside an open source environment. I developed the web graphical interface ARGOS as frontend of the AROMA-CFD methodologies, so making them available directly on web-browser",
+    "link": "https://people.sissa.it/~grozza/aroma-cfd/",
+    "img": "https://nicolademo.xyz/data/pictures/projects/aroma.jpg"
   },
   {
     "title": "UBE2",
     "subtitle": "Underwater Blue Efficiency 2",
     "desc": "In this project, I dealt with the implementation of a web interface capable to perform, and visualize, real-time algorithms for the higher order spectral analysis",
-    "link": ""
+    "link": "https://mathlab.sissa.it/project/ube2-underwater-blue-efficiency-2-por-fesr",
+    "img": "https://nicolademo.xyz/data/pictures/projects/ube2.jpg"
   },
   {
      "title": "PhD4PMI",
      "desc": "In this Proof of Concept, I collaborate with Wärtsilä in merit of application of machine learning and deep learning algorithm to estimate the fuel consumption for hybrid naval engine",
-     "link": ""
+     "link": "https://www.valorisation.sissa.it/phd4pmi-giovani-ricercatori-sissa-le-pmi-del-territorio",
+     "img": "https://nicolademo.xyz/data/pictures/projects/phd4pmi.jpg"
   },
   {
      "title": "MISTI",
      "desc": "I collaborate with the Massachusetts Institute of Technology for an advanced optimization pipeline that includes reduced order modeling, shape parameterization, multi-fidelity models, gaussian process regression",
-     "link": ""
+     "link": "https://www.sissa.it/news/mit-fvg-project-mistis-global-seed-funds-call-proposals",
+     "img": "https://nicolademo.xyz/data/pictures/projects/misti.jpg"
   },
   {
      "title": "SOPHYA",
      "subtitle": "Seakeeping Of Planing Hull YAchts",
      "desc": "I have been involved in the POR-FESR SOPHYA project, which had the goal of increase the performances of planing hulls. In particular, I worked on the data-driven reduced order model and on the shape parameterization for an efficient shape optimization procedure",
-     "link": ""
+     "link": "https://mathlab.sissa.it/project/sophya-seakeeping-planing-hull-yachts-por-fesr",
+     "img": "https://nicolademo.xyz/data/pictures/projects/sophya.jpg"
   },
   {
      "title": "HeAD",
      "subtitle": "Ottimizzazione di forme prodiere e poppiere di carena mediante l'uso di algoritmi parametrici sviluppati in ambienti open source",
      "desc": "Within this project, I had the opportunity to collaborate with Fincantieri SpA for the development of an (open source) framework capable to exploit the reduced order modeling benefits for an industrial shape optimization problem",
-     "link": ""
+     "link": "https://mathlab.sissa.it/project/ottimizzazione-di-forme-prodiere-e-poppiere-di-carena-mediante-luso-di-algoritmi-parametrici",
+     "img": "https://nicolademo.xyz/data/pictures/projects/head.jpg"
   }
 ]
 
