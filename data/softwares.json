@@ -1,0 +1,29 @@
+[
+  {
+    "title": "PyDMD",
+    "desc": "iPython Dynamic Mode Decomposition",
+    "github": "http://github.com/mathLab/PyDMD",
+    "link": "https://mathlab.sissa.it/pydmd",
+    "img": "https://nicolademo.xyz/data/pictures/software/pydmd.jpg"
+  },
+  {
+    "title": "EZyRB",
+    "desc": "Easy Reduced Basis Method",
+    "github": "http://github.com/mathLab/EZyRB",
+    "link": "https://mathlab.sissa.it/ezyrb",
+    "img": "https://nicolademo.xyz/data/pictures/software/ezyrb.jpg"
+  },
+  {
+    "title": "PyGeM",
+    "desc": "Python Geometrical Morphing",
+    "github": "http://github.com/mathLab/PyGeM",
+    "link": "https://mathlab.sissa.it/pygem",
+    "img": "https://nicolademo.xyz/data/pictures/software/pygem.jpg"
+  },
+  {
+    "title": "ARGOS",
+    "desc": "Advanced Reduced order modellinG: Online computational web server for parametric Systems",
+    "link": "https://argos.sissa.it",
+    "img": "https://nicolademo.xyz/data/pictures/software/argos.jpg"
+  }
+]
