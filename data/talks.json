@@ -1,0 +1,32 @@
+[
+  {
+    "title": "DAEDALUS Winter School",
+    "year": "December 2019",
+    "city": "Berlin",
+    "desc": "Machine Learning meets Numerical Analysis of PDE"
+  },
+  {
+    "title": "ROM Summer School",
+    "year": "July 2019",
+    "city": "Trieste",
+    "desc": "Reduced Order Methods in Computational Fluid Dynamics"
+  },
+  {
+    "title": "MARINE",
+    "year": "May 2019",
+    "city": "Goteborg",
+    "desc": "VII International Conference on Computational Methods in Marine Engineering"
+  },
+  {
+    "title": "MOR Summer School",
+    "year": "September 2018",
+    "city": "Hamburg",
+    "desc": "Model Order Reduction Summer School"
+  },
+  {
+    "title": "NAV",
+    "year": "2018",
+    "city": "Trieste",
+    "desc": "19th International Conference on Ship & Maritime Research"
+  }
+]

@@ -1,0 +1,35 @@
+[
+  {
+    "name": "Martina Teruzzi",
+    "role": "MHPC student"
+  },
+  {
+    "name": "Florian  Krӧtz",
+    "role": "Master student",
+    "desc": "thesis: A multiprocess and multithreaded strategy for parallel proper orthogonal decomposition in a reduced-order modeling framework"
+  },
+  {
+    "name": "Leonardo Scandurra",
+    "role": "Post-doc"
+  },
+  {
+    "name": "Giulio Ortali",
+    "role": "Master student",
+    "desc": "thesis: A Data-Driven Reduced Order Optimization Approach for Cruise Ship Design",
+    "link": "https://webthesis.biblio.polito.it/11993/"
+  },
+  {
+    "name": "Laura Meneghetti",
+    "role": "PhD student"
+  },
+  {
+    "name": "Aurora Maurizio",
+    "role": "MHPC student",
+    "desc": "thesis: Representation of distribution networks of ships using graph-theory"
+  },
+  {
+    "name": "Fabrizio Garotta",
+    "role": "Master student",
+    "desc": "thesis: Reduced Order Isogeometric Analysis Approach for PDEs in Parametrized domain"
+  }
+]
