@@ -1,7 +1,7 @@
 [
   {
     "title": "PyDMD",
-    "desc": "iPython Dynamic Mode Decomposition",
+    "desc": "Python Dynamic Mode Decomposition",
     "github": "http://github.com/mathLab/PyDMD",
     "link": "https://mathlab.sissa.it/pydmd",
     "img": "https://nicolademo.xyz/data/pictures/software/pydmd.jpg"
