@@ -34,6 +34,13 @@
      "img": "https://nicolademo.xyz/data/pictures/projects/sophya.jpg"
   },
   {
+     "title": "SAFE",
+     "subtitle": "Realtime Damage Manager And Decision Support",
+     "desc": "I contributed within the POR-FESR SAFE project for the development of a digital twin of the ship, based on graph theory, for the dynamic quantification of damages occurred on-board.",
+     "link": "https://mathlab.sissa.it/project/safe-realtime-damage-manager-and-decision-support",
+     "img": "https://nicolademo.xyz/data/pictures/projects/safe.jpg"
+  },
+  {
      "title": "HeAD",
      "subtitle": "Ottimizzazione di forme prodiere e poppiere di carena mediante l'uso di algoritmi parametrici sviluppati in ambienti open source",
      "desc": "Within this project, I had the opportunity to collaborate with Fincantieri SpA for the development of an (open source) framework capable to exploit the reduced order modeling benefits for an industrial shape optimization problem",
