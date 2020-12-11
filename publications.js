@@ -55,7 +55,7 @@ $.getJSON(url, function( data ) {
             "<a class=\"card-link pub-card-link-font\" href=\"https://www.arxiv.org/abs/" +
             obj["eprint"] + "\">arXiv</a>";
       }
-      if (obj["eprint"] !== undefined) {
+      if (obj["bibitem"] !== undefined) {
         str += "<a class=\"card-link pub-card-link-font\" href=\"" +
                obj["bibitem"] + "\">bibTex</a>";
         str += "</a>";
