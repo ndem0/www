@@ -1,5 +1,32 @@
 [
   {
+    "title": "SIMAI 2020+2021",
+    "year": "September 2021",
+    "city": "Parma"
+    "talk": "A Computational Pipeline Exploiting Reduced Order Modeling Techniques For Industrial Shape Optimization Problems",
+    "desc": "Convegno nazionale della Società Italiana di Matematica Applicata e Industriale"
+  }, 
+  {
+    "title": "MARINE 2021",
+    "year": "June 2021",
+    "city": "Virtual (Edinburgh)",
+    "talk": "Data-driven reduced order modeling for efficient solution of industrial shape optimization problems",
+    "desc": "IX International Conference on Computational Methods in Marine Engineering"
+  }, 
+  {
+    "title": "CSE21",
+    "year": "January 2021",
+    "city": "Virtual (Fort Worth)",
+    "talk": "Accelerating Shape Optimization Problems by Means of Model Order Reduction",
+    "desc": "SIAM Conference on Computational Science and Engineering"
+  },  
+  {
+    "title": "WCCM ECCOMAS",
+    "year": "January 2021",
+    "city": "Virtual (Paris)",
+    "talk": "A Modular And Data-driven Framework Involving Reducing Order Methods For Naval Optimization Industrial Problems",
+  },
+  {
     "title": "DAEDALUS Winter School",
     "year": "December 2019",
     "city": "Berlin",
