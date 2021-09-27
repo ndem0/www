@@ -1,6 +1,7 @@
 var url =
     "https://raw.githubusercontent.com/ndem0/www/master/data/talks.json";
 $.getJSON(url, function( data ) {
+  console.log(data);
   str = '<h3>talks</h3>';
   str += "<ul class=\"check-list\">";
   for (var i = 0; i < data.length; i++) {
