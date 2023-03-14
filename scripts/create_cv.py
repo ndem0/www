@@ -58,7 +58,7 @@ def fill_document(doc):
 
 def add_education(doc):
     import json
-    with open('data/bio.json', 'r') as json_file:
+    with open('../data/bio.json', 'r') as json_file:
         bio = json.load(json_file)
     print(bio)
 
@@ -82,7 +82,7 @@ def add_education(doc):
 
 def add_projects(doc):
     import json
-    with open('data/projects.json', 'r') as json_file:
+    with open('../data/projects.json', 'r') as json_file:
         bio = json.load(json_file)
 
     with doc.create(Section('Projects')):
@@ -104,7 +104,7 @@ def add_projects(doc):
 
 def add_software(doc):
     import json
-    with open('data/softwares.json', 'r') as json_file:
+    with open('../data/softwares.json', 'r') as json_file:
         bio = json.load(json_file)
 
     with doc.create(Section('Software')):
@@ -123,7 +123,7 @@ def add_software(doc):
 
 def add_talks(doc):
     import json
-    with open('data/talks.json', 'r') as json_file:
+    with open('../data/talks.json', 'r') as json_file:
         bio = json.load(json_file)
 
     clean_json(bio)
@@ -149,7 +149,7 @@ def add_talks(doc):
 
 def add_software(doc):
     import json
-    with open('data/softwares.json', 'r') as json_file:
+    with open('../data/softwares.json', 'r') as json_file:
         bio = json.load(json_file)
 
     with doc.create(Section('Software')):
