@@ -30,7 +30,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git add cv.pdf
+          git add scripts/cv.pdf
           git commit -m "New CV version"
 
       - name: Push the PDF
