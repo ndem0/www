@@ -16,7 +16,7 @@ jobs:
         run: |
           ls
           pwd
-          python script/create_cv.py
+          python scripts/create_cv.py
 
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@master
