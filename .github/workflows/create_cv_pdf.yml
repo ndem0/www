@@ -22,7 +22,7 @@ jobs:
       - name: Compile LaTeX document
         uses: xu-cheng/latex-action@master
         with:
-          root_file: cv.tex
+          root_file: scripts/cv.tex
           args: -pdf -file-line-error -interaction=nonstopmode
 
       - name: Commit the new PDF
