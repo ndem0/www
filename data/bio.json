@@ -1,1 +1,37 @@
-[{"desc": "I am currently employed as researcher fellow (“Assegnista di ricerca”) within the SISSA mathLab group, in the Mathematical Analysis, Modelling and Applications area. My main research topics are: model order reduction, data-driven modeling, scientific computing, parallel programming, shape parameterization, shape optimization, machine learning, deep learning", "place": "SISSA, Trieste", "period": "2017 - current", "title": "Research Fellow"}, {"desc": "During the MHPC thesis, I worked as HPC specialist to build an efficient pipeline for the naval bulb shape optimization, coupling an automated freeform deformation, a finite volume solver and the model reduction", "place": "Fincantieri, Trieste", "period": "2016", "title": "Internship"}, {"desc": "thesis: 'Increasing speedup of naval hull workflow optimization using Reduced Order Method' with the supervision of Prof. L. Heltai", "place": "SISSA, Trieste", "period": "2015 - 2016", "title": "Master in HPC"}, {"desc": "thesis: 'Parallelizzazione e vettorizzazione di un algoritmo Lattice Boltzmann mediante direttive di compilazione' with the supervision of Prof. F. S. Schifano", "place": "University of Ferrara", "period": "2012 - 2015", "title": "B. Sc. in Computer Science"}, {"place": "Liceo Ariosto, Ferrara", "period": "2007 - 2012", "title": "Scientific diploma"}]
+[
+   {
+    "desc": "I am co-founder and chief technology officer of the FAST Computing company",
+    "place": "FAST Computing Srl, Trieste",
+    "period": "2022 - current",
+    "title": "Chief Technology Officer"
+  },
+  {
+    "desc": "I was employed as researcher fellow (“Assegnista di ricerca”) within the SISSA mathLab group, in the Mathematical Analysis, Modelling and Applications area. My main research topics are: model order reduction, data-driven modeling, scientific computing, parallel programming, shape parameterization, shape optimization, machine learning, deep learning",
+    "place": "SISSA, Trieste",
+    "period": "2017 - 2023",
+    "title": "Research Fellow"
+  },
+  {
+    "desc": "During the MHPC thesis, I worked as HPC specialist to build an efficient pipeline for the naval bulb shape optimization, coupling an automated freeform deformation, a finite volume solver and the model reduction",
+    "place": "Fincantieri, Trieste",
+    "period": "2016",
+    "title": "Internship"
+  },
+  {
+    "desc": "thesis: 'Increasing speedup of naval hull workflow optimization using Reduced Order Method' with the supervision of Prof. L. Heltai",
+    "place": "SISSA, Trieste",
+    "period": "2015 - 2016",
+    "title": "Master in HPC"
+  },
+  {
+    "desc": "thesis: 'Parallelizzazione e vettorizzazione di un algoritmo Lattice Boltzmann mediante direttive di compilazione' with the supervision of Prof. F. S. Schifano",
+    "place": "University of Ferrara",
+    "period": "2012 - 2015",
+    "title": "B. Sc. in Computer Science"
+  },
+  {
+    "place": "Liceo Ariosto, Ferrara",
+    "period": "2007 - 2012",
+    "title": "Scientific diploma"
+  }
+]
