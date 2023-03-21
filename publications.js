@@ -5,6 +5,12 @@ $.getJSON(url, function( data ) {
   function onlyUnique(value, index, self) {
     return self.indexOf(value) === index;
   }
+  function clean_latex(string) {
+    string = string.replace("\\'e", "é");
+    string = string.replace("\\", "");	  
+    return string
+  }
+
   years = years.filter(onlyUnique).sort().reverse(); // returns ['a', 1, 2, '1']
   var str = '';
   str += "<nav class=\"navbar navbar-dark navbar-expand-md justify-content-between w-100\">";
@@ -39,7 +45,9 @@ $.getJSON(url, function( data ) {
       str += "<h4 class=\"mb-0\">" + obj["title"] + "</h4>";
       str += "<h5 class=\"mb-0\">" +obj['author'] + ", " + obj["year"];
       if (obj["journal"] !== undefined) {
-	str += ", <span class=\"font-italic\">" + obj["journal"] + "</span>";
+	 str += ", <span class=\"font-italic\">" + clean_latex(obj["journal"]) + "</span>";  
+      } else if (obj["booktitle"] !== undefined) {
+	 str += ", <span class=\"font-italic\">" + clean_latex(obj["booktitle"]) + "</span>";
       }
       if (obj["doi"] !== undefined) {
         str +=
