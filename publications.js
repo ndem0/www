@@ -64,6 +64,7 @@ $.getJSON(url, function( data ) {
       str += "</li>";
     } // end card
     str += "</ul>";
+    str += "<div style=\"height: 20px\"></div>";
     str += "</div>";
   } // end columns
   str += "</div>";
