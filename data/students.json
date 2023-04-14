@@ -1,5 +1,27 @@
 [
   {
+    "name": "Dario Coscia",
+    "role": "Master student"
+  },
+  {
+    "name": "Stefano Zanin",
+    "role": "Master student",
+    "desc": "thesis: Enhanced reduction techniques for image classification and object detetction models"
+  },
+  {
+    "name": "Alessandro Pecile",
+    "role": "Master student",
+    "desc": "thesis: Data-driven methods for delay-differential equations"
+  },
+  {
+    "name": "Anna Ivagnes",
+    "role": "Post-doc"
+  },
+  {
+    "name": "Francesco Andreuzzi",
+    "role": "Internship++"
+  },
+  {
     "name": "Martina Teruzzi",
     "role": "MHPC student"
   },
@@ -20,7 +42,8 @@
   },
   {
     "name": "Laura Meneghetti",
-    "role": "PhD student"
+    "role": "PhD student",
+    "desc": "thesis: A Reduced Order Approach for Artificial Neural Networks applied to Object Recognition"
   },
   {
     "name": "Aurora Maurizio",
