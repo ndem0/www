@@ -1,10 +1,18 @@
 [
   {
+    "title": "CSE23",
+    "year": "Febraury 2023",
+    "city": "Amsterdam",
+    "talk": "Real-Time Modeling Through Neural Networks: Challenges and Perspectives",
+    "desc": "SIAM Conference on Computational Science and Engineering",
+  }, 
+  {
     "title": "ESB2022",
     "year": "June 2022",
     "city": "Oporto",
     "talk": "A Web platform for data-driven, real-time modeling and visualizing cardiovascular problems",
-    "desc": "27th Congress of the European Society of Biomechanics [slides: slides.com/nicolademo/deck]"
+    "desc": "27th Congress of the European Society of Biomechanics",
+    "link": "slides.com/nicolademo/deck"
   }, 
   {
     "title": "SIMAI 2020+2021",
