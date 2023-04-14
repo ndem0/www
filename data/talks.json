@@ -5,7 +5,7 @@
     "city": "Amsterdam",
     "talk": "Real-Time Modeling Through Neural Networks: Challenges and Perspectives",
     "desc": "SIAM Conference on Computational Science and Engineering"
-  }, 
+  },
   {
     "title": "ESB2022",
     "year": "June 2022",
@@ -13,28 +13,28 @@
     "talk": "A Web platform for data-driven, real-time modeling and visualizing cardiovascular problems",
     "desc": "27th Congress of the European Society of Biomechanics",
     "link": "slides.com/nicolademo/deck"
-  }, 
+  },
   {
     "title": "SIMAI 2020+2021",
     "year": "September 2021",
     "city": "Parma",
     "talk": "A Computational Pipeline Exploiting Reduced Order Modeling Techniques For Industrial Shape Optimization Problems",
     "desc": "Convegno nazionale della Società Italiana di Matematica Applicata e Industriale"
-  }, 
+  },
   {
     "title": "MARINE 2021",
     "year": "June 2021",
     "city": "Virtual (Edinburgh)",
     "talk": "Data-driven reduced order modeling for efficient solution of industrial shape optimization problems",
     "desc": "IX International Conference on Computational Methods in Marine Engineering"
-  }, 
+  },
   {
     "title": "CSE21",
     "year": "January 2021",
     "city": "Virtual (Fort Worth)",
     "talk": "Accelerating Shape Optimization Problems by Means of Model Order Reduction",
     "desc": "SIAM Conference on Computational Science and Engineering"
-  },  
+  },
   {
     "title": "WCCM ECCOMAS",
     "year": "January 2021",
