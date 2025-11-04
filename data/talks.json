@@ -1,5 +1,40 @@
 [
   {
+    "title": "SIAM MDS 2024",
+    "year": "October 2024",
+    "city": "Atlanta",
+    "talk": "Physics Informed Neural Networks for Advanced Modeling: PINA Library and Tutorials",
+    "desc": "Presentation and Tutorial Session"
+  },
+  {
+    "title": "Eccomas Congress 2024",
+    "year": "June 2024",
+    "city": "Lisbona",
+    "talk": "PINA: a PyTorch Framework for Deep Differential Equation Learning for Research and Production Environments",
+    "desc": "9th European Congress on Computational Methods in Applied Sciences and Engineering"
+  },
+  {
+    "title": "ICLR 2024",
+    "year": "May 2024",
+    "city": "Vienna",
+    "talk": "PINA: a PyTorch Framework for Solving Differential Equations by Deep Learning for Research and Production Environments",
+    "desc": "Poster Presentation at AI4DifferentialEquations workshop"
+  },
+  {
+    "title": "Advanced School on Applied Machine Learning",
+    "year": "May 2024",
+    "city": "Trieste",
+    "talk": "Accelerating Numerical Simulations by means of Physics Informed Machine Learning",
+    "desc": "Summer School on Applied ML at ICTP"
+  },
+  {
+    "title": "M2P2023",
+    "year": "June 2023",
+    "city": "Teormina, Messina",
+    "talk": "ARGOS: The Computational Web Platform for Fast Simulation",
+    "desc": "Ecccomas Conference on Emerging Technologies in Computational Science for Industry, Sustainability and Innovation"
+  },
+  {
     "title": "CSE23",
     "year": "Febraury 2023",
     "city": "Amsterdam",
