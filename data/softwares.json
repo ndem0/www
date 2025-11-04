@@ -2,7 +2,7 @@
   {
     "title": "PyDMD",
     "desc": "Python Dynamic Mode Decomposition",
-    "github": "http://github.com/mathLab/PyDMD",
+    "github": "http://github.com/PyDMD/PyDMD",
     "link": "https://mathlab.sissa.it/pydmd",
     "img": "https://nicolademo.xyz/data/pictures/software/pydmd.jpg"
   },
@@ -25,5 +25,12 @@
     "desc": "Advanced Reduced order modellinG: Online computational web server for parametric Systems",
     "link": "https://argos.sissa.it",
     "img": "https://nicolademo.xyz/data/pictures/software/argos.jpg"
+  },
+  {
+    "title": "PINA",
+    "desc": "Physics-Informed Neural networks for Advanced modeling",
+    "github": "http://github.com/mathLab/PINA",
+    "link": "https://mathlab.github.io/PINA/",
+    "img": "https://nicolademo.xyz/data/pictures/software/pina.jpg"
   }
 ]
