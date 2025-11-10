@@ -2,21 +2,21 @@
   {
     "title": "MARINAI",
     "subtitle": "Main Advancements to Reduce Irradiated Noise with Artificial Intelligence",
-    "desc": "AI-assisted methodology to reduce underwater radiated noise from ship and motor-yacht propellers. It leverages high-fidelity CFD and hydroacoustic simulations to train machine-learning models, delivering a design tool for quieter, more efficient propulsion with lower fuel use and shorter design cycles.",
+    "desc": "I worked as a machine learning specialist, developing quick surrogate models and integrating them into the propeller design workflow.",
     "link": "https://europa.regione.fvg.it/it/programmi-36605/coesione-italia-21-27-friuli-venezia-giulia-36659/progetti-europa-27-operazioni-di-importanza-strategica-106757/progetti-europa-27-fesr-fvg-117041/ricerca-sviluppo-e-innovazione-nel-settore-marittimo-135176/progetto-marinai-137795",
     "img": "https://dia.units.it/sites/dia.units.it/files/all_news/marinAI_POSTER%20A3%20IMMAGINE.png"
   },
   {
     "title": "BJMI",
     "subtitle": "Additive manufacturing with circular, AI-driven innovation for metal components",
-    "desc": "Project to accelerate Binder Jetting adoption in Italy by combining an AI algorithm that scouts suitable geometries with recycled-scrap metal powders. Targets flexible, sustainable production of complex parts for industry and luxury sectors, improving efficiency and lowering environmental impact.",
+    "desc": "I worked as an AI specialist, designing and implementing a neural network to identify geometric features.",
     "link": "https://www.mics.tech/en/progetti-bac/bjmi/",
     "img": "https://www.mics.tech/wp-content/uploads/2025/02/Contesto-5.png"
   },
   {
     "title": "ARGOS",
     "subtitle": "Advanced Reduced order modellinG: Online computational web server for complex parametric Systems",
-    "desc": "ERC Proof of Concept delivering a browser-based web server hosting reduced-order modelling offline-online apps with real-time responses. No local installs; demos span bioengineering, structural mechanics and fluid-dynamic shape optimisation, building on open-source AROMA-CFD libraries (ITHACA, RBniCS).",
+    "desc": "I designed and implemented the ARGOS server architecture, and I designed applications within ARGOS.",
     "link": "https://cordis.europa.eu/project/id/101069319",
     "img": "https://cordis.europa.eu/images/projects/icons/logo-erc.jpg"
   },
