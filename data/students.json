@@ -1,7 +1,20 @@
 [
   {
+    "name": "Giovanni Canali",
+    "role": "PhD student"
+  },
+  {
+    "name": "Filippo Olivo",
+    "role": "PhD student"
+  },
+  {
     "name": "Dario Coscia",
-    "role": "Master student"
+    "role": "PhD student"
+  },
+  {
+    "name": "Dario Coscia",
+    "role": "Master student",
+    "desc": "thesis: A generative adversarial method for reduced order modelling"
   },
   {
     "name": "Stefano Zanin",
